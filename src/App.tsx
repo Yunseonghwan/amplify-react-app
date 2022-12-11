@@ -1,5 +1,5 @@
 import { API } from "aws-amplify";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 interface ICoins {
   name: string;
